@@ -6,12 +6,12 @@
 
   // Your web app's Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyBjx9H6KvMdS5SWKSNDMBGv6r_VpHb4aVE",
-    authDomain: "semana-front-end-361aa.firebaseapp.com",
-    projectId: "semana-front-end-361aa",
-    storageBucket: "semana-front-end-361aa.appspot.com",
-    messagingSenderId: "983623699023",
-    appId: "1:983623699023:web:e6bc8a0d788836195d783a"
+    apiKey: "${ your_api_key}",
+    authDomain: "${your_auth_domain}",
+    projectId: "${your_prpject_id}",
+    storageBucket: "${your_storage_bucket}",
+    messagingSenderId: "${your_messaging_sender_id}",
+    appId: "${your_app_id}"
   };
 
   // Initialize Firebase
